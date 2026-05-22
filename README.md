@@ -18,6 +18,7 @@ The form includes:
 
 Example output:
 <p align="center">
+  <img src="https://github.com/Nadeeshan-n/Identity-Days-Retrieval-System/blob/a3476eb9d5dfe28e76265fdbe4ad75f825a0042e/UI.png" alt="Identity Data Retrieval System UI" width="500">
   <img src="https://github.com/Nadeeshan-n/Identity-Days-Retrieval-System/blob/1aaba2d5604c4310b31f73efdf1421749424f7be/UI2.png" alt="Identity Data Retrieval System UI" width="500">
 </p>
 
