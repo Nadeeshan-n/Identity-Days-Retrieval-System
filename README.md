@@ -17,4 +17,4 @@ The form includes:
 - Labels: Display Gender, Year, Month, and Date  
 
 Example output:
-![Identity Data Retrieval System UI]("https://github.com/Nadeeshan-n/Identity-Days-Retrieval-System/blob/b281a54a744d57b40a347f1717a9445c3ceea0eb/UI.png")
+![Identity Data Retrieval System UI]("https://github.com/Nadeeshan-n/Identity-Days-Retrieval-System/blob/dfe363140974eb32f4b1d8f42966a6639f221af5/UI2.png")
